@@ -1,5 +1,5 @@
-# RickAndMorty
-Rick and Morty app created for invio assesment.
+# RickAndMorty, SwiftUI
+Rick and Morty app created for invio assesment using SwiftUI. 
 
 Data fetched from rickandmortyapi.com
 
